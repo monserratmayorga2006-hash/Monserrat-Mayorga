@@ -1,5 +1,4 @@
-# Monserrat-Mayorga
-Monserrat Mayorga - Soporte Técnico 
+Monserrat Mayorga 
 # Sobre Mí
 :computer: Estudiante de Ciberseguridad en la Universidad Tecnológica de Panamá.  
 :white_check_mark: Responsable, organizada y con interés en el aprendizaje continuo.  
